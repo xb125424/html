@@ -1,0 +1,40 @@
+body{
+  background-color: pink;
+}
+table{
+
+
+    width: 75%
+}
+th, td{
+  border: 1px solid black;
+}
+.chocolate{
+background-image: url("images/chocolate.jpg");
+}
+.vanilla{
+  background-image: url("images/vanilla.jpg");
+}
+.strawberry{
+  background-image: url("images/strawberry.jpg");
+}
+.cheesecake{
+  background-image: url("images/cheesecake.jpg");
+}
+.cookiesandcream{
+  background-image: url("images/cookiesandcream.jpg");
+}
+.title{
+font-size:100px;
+font-style: normal;
+}
+th{
+  background-color:lightblue;
+  font-size: 20px;
+}
+
+
+.lightBlue{
+  background-color:lightblue;
+  font-size: 20px;
+}
